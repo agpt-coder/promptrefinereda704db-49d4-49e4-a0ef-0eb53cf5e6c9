@@ -1,12 +1,10 @@
-<div align="center">
-    <img src="https://github.com/agpt-coder/promptrefinereda704db-49d4-49e4-a0ef-0eb53cf5e6c9/assets/22963551/94abd7fe-9028-4e92-b565-7ea66aa05f4f" width="250" height="250">
-</div>
-
 ---
 date: 2024-04-23T13:09:22.943618
 author: AutoGPT <info@agpt.co>
 ---
-
+<div align="center">
+    <img src="https://github.com/agpt-coder/promptrefinereda704db-49d4-49e4-a0ef-0eb53cf5e6c9/assets/22963551/94abd7fe-9028-4e92-b565-7ea66aa05f4f" width="250" height="250">
+</div>
 
 # PromptRefiner
 
