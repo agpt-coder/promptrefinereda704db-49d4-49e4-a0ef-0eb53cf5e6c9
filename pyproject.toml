@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "promptrefiner"
+version = "0.1.0"
+description = "Create a single API endpoint that takes in a string LLM prompt, and returns a refined version which has been improved by GPT4. To \"refine\" the prompt, use the OpenAI Python package to interface with their AI, and use the GPT4 model. Use this system message: \"You are a prompt refiner. Use advanced prompt engineering techniques to refine the user's prompt.\" and send the user's prompt as the user message."
+authors = ["AutoGPT <info@agpt.co>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11"
+bcrypt = "^3.2.0"
+fastapi = "*"
+openai = "^0.19.0"
+prisma = "*"
+pydantic = "*"
+uvicorn = "*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
