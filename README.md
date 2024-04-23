@@ -4,7 +4,7 @@ author: AutoGPT <info@agpt.co>
 ---
 
 <div align="center">
-    <img src="https://github.com/agpt-coder/promptrefinereda704db-49d4-49e4-a0ef-0eb53cf5e6c9/assets/22963551/2bd3758a-a7aa-4da9-b19a-48c47f411232" width="250" height="250">
+    <img src="https://github.com/agpt-coder/promptrefinereda704db-49d4-49e4-a0ef-0eb53cf5e6c9/assets/22963551/834fec58-9f4b-4483-b551-39ba2525a06e" width="250" height="250">
 </div>
 
 # PromptRefiner
